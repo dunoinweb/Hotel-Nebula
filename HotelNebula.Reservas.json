@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6a2cb8b18877ebc322c3ebb5"
+  },
+  "hospede_snapshot": {
+    "nome": "Carlos Andrade",
+    "email": "carlos.andrade@email.com",
+    "telefone": "+55 11 98765-4321"
+  },
+  "quarto_snapshot": {
+    "numero": "101",
+    "tipo": "standard",
+    "preco_diaria": 250
+  },
+  "data_checkin": {
+    "$date": "2025-04-10T00:00:00.000Z"
+  },
+  "data_checkout": {
+    "$date": "2025-04-14T00:00:00.000Z"
+  },
+  "num_noites": 4,
+  "num_hospedes": 2,
+  "valor_total": 1000,
+  "status": "confirmada",
+  "canal": "site_proprio",
+  "codigo_reserva": "HN-2025-00142",
+  "observacoes": "Solicita berço para bebê.",
+  "data_criacao": {
+    "$date": "2025-03-28T14:22:00.000Z"
+  },
+  "data_atualizacao": {
+    "$date": "2025-03-28T14:22:00.000Z"
+  }
+}]

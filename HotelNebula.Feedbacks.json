@@ -1,0 +1,22 @@
+[{
+  "_id": "ObjectId('fdb2025001')",
+  "hospede_id": "ObjectId('hsp001')",
+  "hospedagem_id": "ObjectId('hpd2025001')",
+  "quarto_id": "ObjectId('qrt101')",
+  "data_avaliacao": "2025-04-15T09:00:00Z",
+  "nota_geral": 4.5,
+  "notas_detalhadas": {
+    "limpeza": 5,
+    "atendimento": 5,
+    "conforto": 4,
+    "custo_beneficio": 4,
+    "localizacao": 5
+  },
+  "comentario": "Ótima estadia! A equipe foi muito atenciosa e o quarto estava impecável. O café da manhã é excelente. Voltarei com certeza.",
+  "resposta_hotel": {
+    "texto": "Obrigado pelo feedback, Carlos! Ficamos felizes com sua visita e esperamos recebê-lo novamente em breve.",
+    "data": "2025-04-16T10:30:00Z",
+    "funcionario_id": "ObjectId('fnc005')"
+  },
+  "visivel": true
+}]

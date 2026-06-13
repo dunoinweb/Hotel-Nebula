@@ -1,0 +1,41 @@
+[{
+  "_id": "ObjectId('hpd2025001')",
+  "reserva_id": "ObjectId('rsv2024001')",
+  "hospede_id": "ObjectId('hsp001')",
+  "quarto_id": "ObjectId('qrt101')",
+  "checkin_real": "2025-04-10T14:35:00Z",
+  "checkout_real": "2025-04-14T11:10:00Z",
+  "status": "encerrada",
+  "funcionario_checkin_id": "ObjectId('fnc005')",
+  "funcionario_checkout_id": "ObjectId('fnc008')",
+  "servicos_consumidos": [
+    {
+      "servico_id": "ObjectId('svc003')",
+      "nome": "Café da manhã",
+      "quantidade": 2,
+      "preco_unitario": 45,
+      "total": 90,
+      "data": "2025-04-11T08:15:00Z"
+    },
+    {
+      "servico_id": "ObjectId('svc011')",
+      "nome": "Lavanderia",
+      "quantidade": 1,
+      "preco_unitario": 80,
+      "total": 80,
+      "data": "2025-04-12T10:00:00Z"
+    },
+    {
+      "servico_id": "ObjectId('svc019')",
+      "nome": "Minibar",
+      "quantidade": 3,
+      "preco_unitario": 25,
+      "total": 75,
+      "data": "2025-04-13T22:30:00Z"
+    }
+  ],
+  "total_servicos": 245,
+  "total_diarias": 1000,
+  "total_geral": 1245,
+  "observacoes": "Hóspede solicitou late checkout, atendido."
+}]

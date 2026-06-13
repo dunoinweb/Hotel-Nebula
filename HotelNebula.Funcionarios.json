@@ -1,0 +1,23 @@
+[{
+  "_id": "ObjectId('fnc005')",
+  "nome": "Juliana Martins",
+  "cpf": "987.654.321-11",
+  "email": "juliana.martins@hotelnebula.com",
+  "telefone": "+55 21 99123-4567",
+  "cargo": "recepcionista",
+  "departamento": "recepção",
+  "turno": {
+    "tipo": "manha",
+    "entrada": "07:00",
+    "saida": "15:00"
+  },
+  "permissoes": [
+    "checkin",
+    "checkout",
+    "reservas_visualizar",
+    "reservas_editar"
+  ],
+  "data_admissao": "2022-08-01",
+  "salario": 3200,
+  "ativo": true
+}]

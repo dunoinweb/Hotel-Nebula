@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6a2c23478877ebc322c3ebb0"
+  },
+  "numero": "101",
+  "andar": 1,
+  "tipo": "standard",
+  "categoria": "economico",
+  "capacidade_max": 2,
+  "preco_diaria": 250,
+  "descricao": "Quarto padrão com vista para o jardim interno.",
+  "comodidades": [
+    "ar-condicionado",
+    "tv 42\"",
+    "frigobar",
+    "wifi",
+    "cofre"
+  ],
+  "caracteristicas": {
+    "vista": "jardim",
+    "banheira": false,
+    "varanda": false,
+    "area_m2": 28
+  },
+  "status": "disponivel",
+  "fotos": [
+    "https://storage.hotelnebula.com/quartos/101/foto1.jpg",
+    "https://storage.hotelnebula.com/quartos/101/foto2.jpg"
+  ],
+  "ultima_limpeza": {
+    "$date": "2025-03-31T08:00:00.000Z"
+  }
+}]

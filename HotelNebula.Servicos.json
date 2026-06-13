@@ -1,0 +1,18 @@
+[{
+  "_id": "ObjectId('svc003')",
+  "nome": "Café da manhã",
+  "categoria": "alimentacao",
+  "descricao": "Café da manhã completo no restaurante do hotel.",
+  "preco": 45,
+  "unidade": "pessoa",
+  "disponivel": true,
+  "horario_disponivel": {
+    "inicio": "06:30",
+    "fim": "10:30"
+  },
+  "tags": [
+    "incluso_suite",
+    "buffet",
+    "opcao_vegana"
+  ]
+}]

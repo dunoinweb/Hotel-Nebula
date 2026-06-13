@@ -1,0 +1,27 @@
+[{
+  "_id": "ObjectId('pgt2025001')",
+  "hospedagem_id": "ObjectId('hpd2025001')",
+  "reserva_id": "ObjectId('rsv2024001')",
+  "hospede_id": "ObjectId('hsp001')",
+  "valor_total": 1245,
+  "status": "pago",
+  "data_pagamento": "2025-04-14T11:05:00Z",
+  "parcelas": [
+    {
+      "metodo": "cartao_credito",
+      "bandeira": "Visa",
+      "valor": 1000,
+      "num_parcelas": 1,
+      "status": "aprovado",
+      "transacao_id": "TXN-VISA-00392"
+    },
+    {
+      "metodo": "pix",
+      "valor": 245,
+      "status": "aprovado",
+      "transacao_id": "TXN-PIX-00841"
+    }
+  ],
+  "nota_fiscal": "NF-e 000421",
+  "data_criacao": "2025-04-14T11:05:00Z"
+}]
